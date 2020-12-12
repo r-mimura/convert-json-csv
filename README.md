@@ -1,2 +1,5 @@
-# json2csv
-Convert .json file to .csv file or .csv file to .json file.
+# Abstract
+Convert `.json` to `.csv` or `.csv` to `.json` .
+
+# Usage
+
