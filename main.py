@@ -4,8 +4,8 @@ import json
 import pandas as pd
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-i', '--input', type=str, required=True)
-parser.add_argument('-o', '--output', type=str, required=True)
+parser.add_argument('-i', '--input', type=str, required=True, help='input file path')
+parser.add_argument('-o', '--output', type=str, required=True, help='output file path')
 args = parser.parse_args()
 
 input_file = args.input
