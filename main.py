@@ -1,6 +1,4 @@
 import argparse
-import csv
-import json
 import pandas as pd
 
 parser = argparse.ArgumentParser()
